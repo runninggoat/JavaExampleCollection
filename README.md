@@ -1,5 +1,4 @@
 # Java Learning  Examples
-----
 
 Some useful Java example code, including:
 
@@ -15,10 +14,10 @@ Single thread VS. multi-thread counting
 
 ## Snapshots
 
-![avatar](https://github.com/runninggoat/JavaExampleCollection/doc/images/image1.png)
+![avatar](https://github.com/runninggoat/JavaExampleCollection/blob/master/doc/images/image1.png)
 
 *Email sending. Input.*
 
-![avatar](https://github.com/runninggoat/JavaExampleCollection/doc/images/image2.png)
+![avatar](https://github.com/runninggoat/JavaExampleCollection/blob/master/doc/images/image2.png)
 
 *Email was sent successfully.*
